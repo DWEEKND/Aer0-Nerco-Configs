@@ -199,11 +199,25 @@
   ],
   "PokemonsToEvolve": [
     "caterpie",
+    "metapod",
     "weedle",
+    "kakuna",
     "pidgey",
+    "pidgeotto",
     "rattata",
+    "spearow",
+    "ekans",
+    "sandshrew",
     "zubat",
+    "paras",
+    "venonat",
+    "diglett"
+    "bellsprout",
+    "krabby",
     "doduo",
+
+    
+    ""
     "spearow"
   ],
   "PokemonsToLevelUp": null,
